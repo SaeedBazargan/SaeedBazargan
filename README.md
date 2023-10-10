@@ -5,4 +5,4 @@ I am Saeed Bazargan, an **Electronic Engineer** with over ten years of experienc
 ## Connect with me:
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saeed-bazargan-sbzrgn/)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SaeedBazarganZSR)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SaeedBazargan)](https://github.com/anuraghazra/github-readme-stats)
